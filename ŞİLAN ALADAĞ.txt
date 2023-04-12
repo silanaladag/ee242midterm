@@ -1,0 +1,49 @@
+ŞİLAN ALADAĞ 20190701025 
+
+Q1 
+
+ 
+
+Name= silan 
+
+S= 115 
+
+i=105 
+
+L=108 
+
+A= 097 
+
+N= 110 
+
+ 
+
+Surname= aladag 
+
+A= 097 
+
+L=108 
+
+A=097 
+
+D=100 
+
+A=097 
+
+G=103 
+
+ 
+
+Asciiname=535 
+
+Asciisurname=602 
+
+Asciitotal=1137 
+
+Timernumber=(1137%14)+1=4 
+
+ARRNUMBER=65535 
+
+Duration=(602%1500)*30=18060 
+
+LEDPINNUMBER=(1137%4)+12=13 
